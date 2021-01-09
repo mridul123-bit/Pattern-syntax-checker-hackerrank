@@ -1,0 +1,1 @@
+# Pattern-syntax-checker-hackerrank
